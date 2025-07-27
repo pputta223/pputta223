@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Pradeep Puttamaraju  
+# Hi there 👋, I'm Pradeep Putta
 
 💻 **Tech Enthusiast | Data and Full Stack Developer | Cloud Learner**  
 
